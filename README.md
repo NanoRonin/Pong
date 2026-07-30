@@ -1,6 +1,6 @@
 A very basic game of Pong with a bot and a ball that gets faster every time it gets hit
 
-Controls - 
+Controls: 
 ("W") - Up
 ("S") - Down
 
